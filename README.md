@@ -1,61 +1,18 @@
-## Hi, I'm Anurag 👋
+# 💫 About Me:
+Hi, I'm Anurag, a passionate developer who enjoys building web applications and learning new technologies. I'm currently focused on full-stack development, with a growing interest in AI and backend engineering.
 
-I'm a **Software Developer** focused on building clean, functional web applications and strengthening my problem-solving skills through **Java and Data Structures & Algorithms**.
 
-I enjoy learning by building real projects and continuously improving my fundamentals.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anuragk.fb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuragk_ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-kumar-318a853aa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/anuragk_redd-it) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragk_x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anurag18.work@gmail.com) 
 
----
-
-### 🚀 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Programming:** Java
-- **Core Skills:** Data Structures & Algorithms
-- **Tools:** Git, GitHub
-
----
-
-### 📌 Featured Projects
-
-#### 🔹 AlgoStreak Platform
-A learning platform designed to help students build consistency in Data Structures & Algorithms through streak-based practice.
-
-- Role-based system (Student / Mentor)
-- Group learning workflow
-- Built with modern web technologies
-
-🔗 Repository: https://github.com/anurag2417/algostreak-platform
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anurag2417&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anurag2417&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurag2417&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anurag2417&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### 🔹 SmartQuiz Web App
-An interactive quiz application built using JavaScript with dynamic UI updates and user interaction.
-
-- DOM manipulation
-- Event handling
-- Clean UI design
-
-🔗 Repository: https://github.com/anurag2417/smartquiz-web-app
-
----
-
-#### 🔹 Frontend Foundations
-A curated collection of frontend projects demonstrating strong fundamentals in HTML, CSS, and JavaScript.
-
-🔗 Repository: https://github.com/anurag2417/frontend-foundations
-
----
-
-### 🎯 Current Focus
-- Building real-world web projects
-- Improving problem-solving skills using Java
-- Learning scalable frontend architecture
-
----
-
-### 📫 Connect With Me
-- 📍 Bangalore, India
-- 📧 Email: anuragakn18@gmail.com
-
----
-
-⭐ Always learning. Always building.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
