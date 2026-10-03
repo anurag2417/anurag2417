@@ -1,23 +1,18 @@
+<img src="assets/banner.svg" width="100%" alt="Anurag, full-stack developer building RepoGuide"/>
+
 <div align="center">
 
-<img src="assets/banner.png" alt="Anurag" width="100%"/>
-
-### Full-stack developer building **RepoGuide**, an AI contribution copilot
-
-<img src="https://img.shields.io/badge/Building-RepoGuide-00e676?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Learning-Spring%20Boot-00e676?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-00e676?style=for-the-badge&labelColor=0d1117"/>
+<a href="https://linkedin.com/in/anurag-kumar-318a853aa"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e676"/></a>
+<a href="https://x.com/anuragk_x"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00e676"/></a>
+<a href="https://instagram.com/anuragk_ig"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00e676"/></a>
+<a href="mailto:anurag18.work@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e676"/></a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/anurag-kumar-318a853aa"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/anuragk_x"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/anuragk_ig"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:anurag18.work@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+I build web apps end to end, and I'm getting deeper into AI and backend engineering.<br/>
+Right now: **RepoGuide**, an AI copilot that helps people make their first open source contribution.
 
 </div>
-
----
 
 ## Tech Stack
 
@@ -34,15 +29,21 @@
 <a href="https://github.com/anurag2417/REPO_2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag2417&repo=REPO_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676"/></a>
 </div>
 
-## GitHub Stats
+## Contributions in 3D
 
 <div align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph"/>
+</div>
+
+## Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anurag2417/anurag2417/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<br/>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=anurag2417&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&include_all_commits=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2417&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=anurag2417&theme=dark&hide_border=true&background=0d1117&ring=00e676&fire=00e676&currStreakLabel=00e676"/>
 </div>
 
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag2417&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e676&line=00e676&point=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e676&height=110&section=footer" width="100%"/>
