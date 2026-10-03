@@ -14,7 +14,9 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 
 </div>
 
-## Tech Stack
+<img src="assets/marquee.svg" width="100%" alt="react, typescript, node, spring boot, mongodb, postgres, tailwind, ai agents, open source"/>
+
+<img src="assets/h-stack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,js,html,css,nodejs,express,java,spring,postgres,mysql,mongodb,supabase&theme=dark"/>
@@ -22,20 +24,20 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,postman,figma,blender&theme=dark"/>
 </div>
 
-## Featured Projects
+<img src="assets/h-projects.svg" width="100%" alt="Featured Projects"/>
 
 <div align="center">
-<a href="[https://github.com/anurag2417/REPO_1](https://github.com/anurag2417/KodxCamp)"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag2417&repo=REPO_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676"/></a>
-<a href="[https://github.com/anurag2417/REPO_2](https://github.com/anurag2417/AcadFlows)"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag2417&repo=REPO_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676"/></a>
+<a href="https://github.com/anurag2417/KodxCamp"><img width="49%" src="assets/card-kodxcamp.svg" alt="KodxCamp"/></a>
+<a href="https://github.com/anurag2417/AcadFlows"><img width="49%" src="assets/card-acadflows.svg" alt="AcadFlows"/></a>
 </div>
 
-## Contributions in 3D
+<img src="assets/h-3d.svg" width="100%" alt="Contributions in 3D"/>
 
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph"/>
 </div>
 
-## Activity
+<img src="assets/h-activity.svg" width="100%" alt="Activity"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/anurag2417/anurag2417/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
@@ -46,4 +48,4 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 <img src="https://streak-stats.demolab.com/?user=anurag2417&theme=dark&hide_border=true&background=0d1117&ring=00e676&fire=00e676&currStreakLabel=00e676"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e676&height=110&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
