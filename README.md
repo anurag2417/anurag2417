@@ -25,8 +25,8 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 ## Featured Projects
 
 <div align="center">
-<a href="https://github.com/anurag2417/REPO_1"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag2417&repo=REPO_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676"/></a>
-<a href="https://github.com/anurag2417/REPO_2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag2417&repo=REPO_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676"/></a>
+<a href="[https://github.com/anurag2417/REPO_1](https://github.com/anurag2417/KodxCamp)"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag2417&repo=REPO_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676"/></a>
+<a href="[https://github.com/anurag2417/REPO_2](https://github.com/anurag2417/AcadFlows)"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag2417&repo=REPO_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676"/></a>
 </div>
 
 ## Contributions in 3D
