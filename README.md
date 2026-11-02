@@ -14,6 +14,10 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 
 </div>
 
+<div align="center">
+<img src="assets/terminal.svg" width="82%" alt="Terminal: anurag, full stack developer, building RepoGuide"/>
+</div>
+
 <img src="assets/marquee.svg" width="100%" alt="react, typescript, node, spring boot, mongodb, postgres, tailwind, ai agents, open source"/>
 
 <img src="assets/h-stack.svg" width="100%" alt="Tech Stack"/>
@@ -24,6 +28,8 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,postman,figma,blender&theme=dark"/>
 </div>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <img src="assets/h-projects.svg" width="100%" alt="Featured Projects"/>
 
 <div align="center">
@@ -31,11 +37,15 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 <a href="https://github.com/anurag2417/AcadFlows"><img width="49%" src="assets/card-acadflows.svg" alt="AcadFlows"/></a>
 </div>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <img src="assets/h-3d.svg" width="100%" alt="Contributions in 3D"/>
 
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph"/>
 </div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/h-activity.svg" width="100%" alt="Activity"/>
 
