@@ -9,8 +9,17 @@
 
 <br/><br/>
 
-I build web apps end to end, and I'm getting deeper into AI and backend engineering.<br/>
-Right now: **RepoGuide**, an AI copilot that helps people make their first open source contribution.
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20BITS%20Pilani-Computer%20Science-0d1117?style=flat-square&logo=academia&logoColor=00e676" alt="BITS Pilani"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🛠️%20Focus-Full%20Stack%20%26%20AI%20Systems-0d1117?style=flat-square&logo=target&logoColor=00e676" alt="Full Stack & AI Systems"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀%20Building-RepoGuide-0d1117?style=flat-square&logo=github&logoColor=00e676" alt="RepoGuide"/>
+</p>
+
+I build web applications end-to-end with modern TypeScript, Spring Boot, and cloud databases.<br/>
+Currently diving deep into **AI agent systems, backend architectures, and open-source tooling**.<br/>
+Flagship build: [**RepoGuide**](https://github.com/anurag2417/RepoGuide) — an AI copilot that guides developers through their first open source contribution.
 
 </div>
 
@@ -23,9 +32,22 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 <img src="assets/h-stack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,js,html,css,nodejs,express,java,spring,postgres,mysql,mongodb,supabase&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,postman,figma,blender&theme=dark"/>
+
+<code><b>&lt;Languages &amp; Core /&gt;</b></code><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark"/>
+<br/><br/>
+
+<code><b>&lt;Frontend &amp; Frameworks /&gt;</b></code><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux&theme=dark"/>
+<br/><br/>
+
+<code><b>&lt;Backend &amp; Databases /&gt;</b></code><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mysql,mongodb,supabase&theme=dark"/>
+<br/><br/>
+
+<code><b>&lt;DevOps, Cloud &amp; Tools /&gt;</b></code><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify,postman,figma,blender&theme=dark"/>
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -33,6 +55,8 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 <img src="assets/h-projects.svg" width="100%" alt="Featured Projects"/>
 
 <div align="center">
+<a href="https://github.com/anurag2417/RepoGuide"><img width="98.5%" src="assets/card-repoguide.svg" alt="RepoGuide"/></a>
+<br/><br/>
 <a href="https://github.com/anurag2417/KodxCamp"><img width="49%" src="assets/card-kodxcamp.svg" alt="KodxCamp"/></a>
 <a href="https://github.com/anurag2417/AcadFlows"><img width="49%" src="assets/card-acadflows.svg" alt="AcadFlows"/></a>
 </div>
@@ -51,11 +75,36 @@ Right now: **RepoGuide**, an AI copilot that helps people make their first open 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/anurag2417/anurag2417/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<br/><br/>
+<a href="https://github.com/anurag2417">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anurag2417&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=c9d1d9&include_all_commits=true" alt="Anurag's GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/anurag2417">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2417&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9" alt="Top Languages"/>
+</a>
+<br/><br/>
+<a href="https://github.com/anurag2417">
+  <img src="https://streak-stats.demolab.com/?user=anurag2417&hide_border=true&background=0d1117&ring=00e676&fire=00e676&currStreakLabel=00e676&sideNums=00e676&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+</a>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
 <br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anurag2417&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2417&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e676"/>
+
+<a href="mailto:anurag18.work@gmail.com"><img src="https://img.shields.io/badge/💬%20Get%20In%20Touch-Let's%20Talk-00e676?style=for-the-badge&labelColor=0d1117&color=00e676" alt="Get In Touch"/></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/anurag-kumar-318a853aa"><img src="https://img.shields.io/badge/💼%20Connect-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e676" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+💬 *Open to collaborating on **full-stack web apps, AI copilot tooling, and open-source projects**.*
+
 <br/>
-<img src="https://streak-stats.demolab.com/?user=anurag2417&theme=dark&hide_border=true&background=0d1117&ring=00e676&fire=00e676&currStreakLabel=00e676"/>
+
 </div>
 
 <img src="assets/footer.svg" width="100%" alt=""/>
